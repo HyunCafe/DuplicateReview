@@ -1,0 +1,19 @@
+# Local machine, build and private files
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.pdb
+*.pext
+*.zip
+TestResults/
+Private/
+*.private.*
+*.secrets.*
+appsettings.local.*
